@@ -51,29 +51,5 @@ Excqute the Project.sql file in  files tab
 
 You will find the project src files in [SourceFile](Login)
 
-## ScreenShots
-[ScreenShots](ScreenShots)
-
-
-
-
-## Authors
-1. [Eslam Hawas](https://github.com/eslamhawas)
-2. [Mostafa Mohdy](https://github.com/momohdy)
-3. [Marwan Metwally](https://github.com/MarwanMet123)
-
-## Recourses
-
-Here some useful recourses you will need :
-
-1. [Configuring MSSQL Server Management](https://www.youtube.com/watch?v=9k3ZmPsxar8)
-2. [Configuring JDBC Driver](https://www.youtube.com/watch?v=VTmEFkanUso) 
-3. [Java to MS-SQL Server Database(INSERT, UPDATE, DELETE, DISPLAY, SEARCH & SORT)](https://www.youtube.com/watch?v=UeElnmcsKKc&t=902s) 
-4. [Open one JFrame from another in java Swing](https://www.youtube.com/watch?v=3dlvseTkRHg)
-5. [How to get data from database to JTable](https://www.youtube.com/watch?v=frafcK6fhdQ&list=PLv1XiDDk9Y4dL6tCfVND9OUCWDoUZ7fz1&index=6)
-
-## Contact 
-
-[Facebook](https://web.facebook.com/Eslamm96)
 
 
